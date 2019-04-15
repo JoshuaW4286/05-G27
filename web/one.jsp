@@ -16,9 +16,7 @@
         </style>
     </head>
     <body>
-        <%
-            String submitted = request.getParameter(submitted);
-                    if(submitted != null && submitted.equals("yes")){%>
+
         <h1> Register</h1>
         <form action ="one.jsp" target="" method="post">
             <table style="margin: 0 auto; padding-top: 50px; padding-bottom: 20px; text-align: left;">
