@@ -11,7 +11,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Register Page</title>
         <style>
-            body{text-align:center; font-family:sans-serif; width: 100%; background-color:#423B3A; color: white;}
+            body{text-align:left; font-family:sans-serif; width: 100%; background-color:#423B3A; color: white;}
             th{padding:5px;}
         </style>
     </head>
